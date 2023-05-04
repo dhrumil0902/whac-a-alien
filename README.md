@@ -7,3 +7,6 @@ This game was inspired by the Whac-A-Mole game. This game involves moving a hamm
 3. Upload whac.c
 4. Click Compile & Load
 5. Follow instructions on screen, use w,a,s,d to move and space to hit. Enter keyboard instructions in "PS/2" keyboard.
+
+## Gif Demonstration
+![hammer](https://user-images.githubusercontent.com/64914881/200074664-58dacdae-eb80-4228-9569-86e3d0279ac6.gif)
